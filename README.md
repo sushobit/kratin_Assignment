@@ -14,5 +14,5 @@ old) to live a healthier and better life with the help of MediCo (a Full FrontEn
 
 https://github.com/sushobit/kratin_Assignment/assets/120631631/409f0f20-ff7f-410b-9363-ac0f4891bc62
 
-## Deployment Link:- [kratin-assignment-sushobit](https://kratin-assignment-1292-3q7ogwhml-sushobit.vercel.app/home)
+## Deployment Link:- [kratin-assignment-sushobit](https://kratin-assignment-1292-3q7ogwhml-sushobit.vercel.app/)
 
