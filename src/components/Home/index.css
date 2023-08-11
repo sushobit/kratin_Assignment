@@ -1,0 +1,70 @@
+
+.main-container {
+    background-image: url("https://akm-img-a-in.tosshub.com/indiatoday/images/story/202208/senior-citizens-g6e67c5a27_192_1200x768.jpeg?VersionId=tUMAwZF9UmKjh0BjFZ2HLqobXLhO4K_l");
+    background-size: cover;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.card-container {
+    text-align: center;
+    background-color: rgba(179, 199, 243, 0.5);
+    border-radius: 40px;
+    padding: 20px;
+}
+
+.top-head {
+    font-weight: 900;
+    color: #3b65b2;
+    font-size: 68px;
+}
+.mid-head {
+    font-weight: 600;
+    color: #3b65b2;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+.paragraph {
+    color: #3b65b2;
+}
+.button {
+    background-color: rgb(43, 171, 156);
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    border-width: none;
+    border-color: rgb(43, 171, 156);
+    border-style: none;
+    margin: 10px;
+    text-decoration: none;
+}
+.button:hover {
+    font-size: large;
+}
+
+
+@media screen and (max-width: 768px) {
+    .card-container {
+        text-align: center;
+        background-color: rgba(179, 199, 243, 0.5);
+        border-radius: 40px;
+        padding: 20px;
+    }
+    .top-head {
+        font-weight: 900;
+        color: #3b65b2;
+        font-size: 40px;
+    }
+    .mid-head {
+        font-weight: 400;
+        color: #3b65b2;
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+    .paragraph {
+        color: #3b65b2;
+    }
+}

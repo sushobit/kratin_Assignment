@@ -1,0 +1,42 @@
+.container {
+    background-color: rgb(78, 105, 131);
+    color: #3b65b2;
+    text-align: center;
+    height: fit-content;
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.team {
+    margin-top: 20px;
+}
+.para {
+    margin: 2px;
+}
+.doctorn {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.doctor-name {
+    font-size: 25px;
+}
+.doctor-email {
+    font-size: 20px;
+}
+.image {
+    padding-top: 20px;
+    height: 270px;
+    width: 230px;
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        height: auto; 
+        padding: 20px; 
+        font-size: 15px;
+    }
+}
